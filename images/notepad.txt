@@ -1,0 +1,141 @@
+PLANTNEST   PROJECT   COMPLETE   DOCUMENTATION. 
+
+ 
+
+COMPLETE  DATABASE   AND  TABLE  NAME COLLECTION. 
+
+      DATABASE  NAME. 
+
+e-commerce 
+
+      FIRST TABLE NAME  ADMIN. 
+
+      ADMIN  LOGIN  FORM  REQUIREMENT  AND  TABLE  NAMES. 
+
+id 
+
+name  
+
+email 
+
+password 
+
+      SECOND TABLE  NAME categories. 
+
+      categories. 
+
+id 
+
+categories 
+
+status 
+
+     THIRD TABLE  NAME  contact. 
+
+id 
+
+name 
+
+email 
+
+mobile 
+
+address 
+
+message 
+
+addedd_on 
+
+      FOURTH  TABLE  NAME  order. 
+
+Id 
+
+user_id 
+
+address 
+
+city 
+
+pincode 
+
+payment_type 
+
+payment_status 
+
+order_status 
+
+added_on 
+
+      FIFTH  TABLE  NAME   order_detail. 
+
+Id 
+
+order_id 
+
+product_id 
+
+qty 
+
+price 
+
+name 
+
+Image 
+
+     SIX  TABLE  NAME order_status. 
+
+Id  
+
+name 
+
+     SEVENTH  TABLE  NAME  product. 
+
+Id 
+
+categories_id 
+
+name 
+
+image 
+
+mrp 
+
+price 
+
+qty 
+
+description 
+
+status 
+
+      EIGHT  TABLE  NAME  users. 
+
+Id  
+
+name 
+
+email 
+
+Mobile 
+
+addedd_on 
+
+     ADMIN  LOGIN  DETAILES. 
+
+EMAIL  =  admin@gmail.com 
+
+PASSWORD = admin1234 
+
+     USER  LOGIN DETAILES. 
+
+Email = shahyar@gmail.com 
+
+PASSWORD = 12345 
+
+    TECHNICAL LOGIN DETAILES. 
+
+EMAIL = zeeshan@gmail.com 
+
+PASSWORD = 12345 
+
+ 
